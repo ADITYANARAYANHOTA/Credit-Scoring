@@ -288,16 +288,3 @@ Possible extensions include:
 - A simple web application or API for interactive predictions.
 - Model monitoring and periodic retraining.
 
-## Author
-
-**Your Name**
-
-If this project is being submitted as part of an internship or academic portfolio, you can add your LinkedIn and GitHub profile here.
-
-## License
-
-Add an appropriate license before publishing the repository. For example, you may use the MIT License if it fits your intended use.
-
----
-
-**Project status:** Completed
