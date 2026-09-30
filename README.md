@@ -170,24 +170,6 @@ credit-risk-prediction/
 └── requirements.txt
 ```
 
-## Generated Files
-
-### `credit_risk_random_forest_model.pkl`
-
-Serialized Random Forest model saved using `joblib`. It can be loaded later for prediction without retraining the model.
-
-### `model_comparison_results.csv`
-
-Contains the comparison results for the three trained models.
-
-### `credit_risk_project_results.txt`
-
-Stores the main dataset information, model performance, selected model, and example prediction.
-
-### `final_project_summary.txt`
-
-Contains a concise summary of the completed project and its results.
-
 ## Installation
 
 Clone the repository:
